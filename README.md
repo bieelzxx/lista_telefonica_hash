@@ -42,13 +42,13 @@ sejam realizadas de forma eficiente, com complexidade média **O(1)**.
 Clone o repositório:
 
 ``` bash
-git clone https://github.com/bieelzxx/lista-telefonica-hash-python
+git clone https://github.com/bieelzxx/lista-telefonica-hash
 ```
 
 Entre na pasta:
 
 ``` bash
-cd lista-telefonica-hash-python
+cd lista-telefonica-hash
 ```
 
 Execute:
